@@ -1,0 +1,21 @@
+.Soda-container {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  background-color: darkgreen;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+
+.Soda-img {
+  display: flex;
+  
+}
+
+.Soda-img img {
+  width: 100px;
+  padding: 40px;
+}
